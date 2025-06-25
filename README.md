@@ -61,7 +61,7 @@ Politeknik Hasnur
 
 ```bash
 # Clone repository
-git clone https://github.com/NurRizkaZahra/project-monitoring-sederhana.git
+git clone https://github.com/Noordiani/project-monitoring-sederhana.git
 cd project-monitoring-sederhana
 
 # Install dependency Laravel
